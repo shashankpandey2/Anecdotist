@@ -395,13 +395,27 @@ The system reduces cost by keeping old prose out of context, retrieving compact
 canon, generating one episode at a time, and requiring a human decision before
 advancing.
 
-## Known limits
+## Future scope
+
+The current workflow provides a stable foundation for continued development.
+Potential improvements include:
+
+- **Richer story memory:** extract verified facts, relationship changes, and
+	unresolved threads from approved prose instead of relying mainly on plan
+	metadata.
+- **Deeper continuity review:** add semantic contradiction checks, timeline
+	validation, entity resolution, and stronger cross-episode repetition
+	detection.
+- **Provider accounting:** capture native input/output token usage, retries,
+	latency, and billed cost from each supported provider.
+- **Evaluation harness:** add benchmark premises, human quality scores, and
+	regression reports for long-range character, plot, and pacing consistency.
+- **Review experience:** add a browser-based review surface for arc editing,
+	episode comparison, directives, approvals, and trace inspection.
+- **Operational hardening:** add authentication, multi-user story ownership,
+	background job execution, configurable retention, and richer health metrics
+	for hosted deployments.
 
 Gemini requires `GOOGLE_API_KEY`; Ollama requires a running local daemon and a
-downloaded model. The deterministic provider exists only to generate the
-checked-in fixture and keep automated tests credential-free. Long-running
-quality still benefits from periodic arc reviews and stronger semantic fact and
-repetition checks. The current critic reliably enforces length, hooks, planned
-character presence, retry bounds, and near-duplicate rejection, but it cannot
-prove semantic contradiction absence; that remains a deliberate, documented
-production limitation.
+downloaded model. The deterministic provider remains available for tests and
+offline fixture generation.
