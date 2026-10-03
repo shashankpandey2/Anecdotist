@@ -1,0 +1,30 @@
+[project]
+name = "serial-story-writer"
+version = "0.1.0"
+description = "A small, resumable agentic serial story writer with human review."
+requires-python = ">=3.11"
+readme = "README.md"
+dependencies = [
+    "fastapi>=0.115",
+    "langchain>=0.3",
+    "langchain-google-genai>=2.0",
+    "langchain-ollama>=0.2",
+    "langgraph>=0.2",
+    "langgraph-checkpoint-sqlite>=2.0",
+    "python-dotenv>=1.0",
+    "uvicorn[standard]>=0.34",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["story_writer*"]
+
+[project.scripts]
+story-writer = "story_writer.cli:main"
+story-writer-api = "story_writer.api:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

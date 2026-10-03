@@ -1,0 +1,12 @@
+# Runtime and API dependencies.
+fastapi>=0.115
+langchain>=0.3
+langchain-google-genai>=2.0
+langchain-ollama>=0.2
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=2.0
+python-dotenv>=1.0
+uvicorn[standard]>=0.34
+
+# Install the local story-writer package and CLI.
+-e .

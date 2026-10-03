@@ -1,0 +1,3211 @@
+{
+  "story_id": "demo",
+  "premise": "A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury.",
+  "arc": {
+    "premise": "A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury.",
+    "logline": "When a talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury, Mira learns that a lasting cricket career is built between the highlights.",
+    "themes": [
+      "discipline",
+      "resilience",
+      "teamwork"
+    ],
+    "characters": [
+      {
+        "name": "Mira Sen",
+        "role": "protagonist",
+        "arc": "from gifted junior batter to patient team leader"
+      },
+      {
+        "name": "Kabir Rao",
+        "role": "teammate and rival",
+        "arc": "from score-setter to dependable partner"
+      },
+      {
+        "name": "The Selection Committee",
+        "role": "institutional pressure",
+        "arc": "from distant judgement to earned trust"
+      }
+    ],
+    "phases": [
+      {
+        "name": "The First Net",
+        "episodes": "1-20",
+        "turn": "Mira earns a trial spot after a patient innings on a cracked community pitch."
+      },
+      {
+        "name": "Away Grounds",
+        "episodes": "21-60",
+        "turn": "Mira learns that different pitches and opponents demand more than natural talent."
+      },
+      {
+        "name": "The Long Recovery",
+        "episodes": "61-120",
+        "turn": "An injury forces Mira to rebuild her technique, confidence, and place in the team."
+      },
+      {
+        "name": "Selection Week",
+        "episodes": "121-170",
+        "turn": "Mira and Kabir face pressure, politics, and one final chance to earn selection."
+      },
+      {
+        "name": "The Deciding Innings",
+        "episodes": "171-200",
+        "turn": "Mira chooses what kind of player and captain she wants to become."
+      }
+    ],
+    "episodes": [
+      {
+        "number": 1,
+        "title": "The First Innings 1",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "The First Innings 2",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "The First Innings 3",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "The First Innings 4",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "The First Innings 5",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "The First Innings 6",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "The First Innings 7",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 8,
+        "title": "The First Innings 8",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 9,
+        "title": "The First Innings 9",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 10,
+        "title": "The First Innings 10",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 11,
+        "title": "The First Innings 11",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 12,
+        "title": "The First Innings 12",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 13,
+        "title": "The First Innings 13",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 14,
+        "title": "The First Innings 14",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 15,
+        "title": "The First Innings 15",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 16,
+        "title": "The First Innings 16",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 17,
+        "title": "The First Innings 17",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 18,
+        "title": "The First Innings 18",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 19,
+        "title": "The First Innings 19",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 20,
+        "title": "The First Innings 20",
+        "purpose": "Advance the first net through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 21,
+        "title": "The Second Innings 21",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 22,
+        "title": "The Second Innings 22",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 23,
+        "title": "The Second Innings 23",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 24,
+        "title": "The Second Innings 24",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 25,
+        "title": "The Second Innings 25",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 26,
+        "title": "The Second Innings 26",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 27,
+        "title": "The Second Innings 27",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 28,
+        "title": "The Second Innings 28",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 29,
+        "title": "The Second Innings 29",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 30,
+        "title": "The Second Innings 30",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 31,
+        "title": "The Second Innings 31",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 32,
+        "title": "The Second Innings 32",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 33,
+        "title": "The Second Innings 33",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 34,
+        "title": "The Second Innings 34",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 35,
+        "title": "The Second Innings 35",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 36,
+        "title": "The Second Innings 36",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 37,
+        "title": "The Second Innings 37",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 38,
+        "title": "The Second Innings 38",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 39,
+        "title": "The Second Innings 39",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 40,
+        "title": "The Second Innings 40",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 41,
+        "title": "The Second Innings 41",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 42,
+        "title": "The Second Innings 42",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 43,
+        "title": "The Second Innings 43",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 44,
+        "title": "The Second Innings 44",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 45,
+        "title": "The Second Innings 45",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 46,
+        "title": "The Second Innings 46",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 47,
+        "title": "The Second Innings 47",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 48,
+        "title": "The Second Innings 48",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 49,
+        "title": "The Second Innings 49",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 50,
+        "title": "The Second Innings 50",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 51,
+        "title": "The Second Innings 51",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 52,
+        "title": "The Second Innings 52",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 53,
+        "title": "The Second Innings 53",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 54,
+        "title": "The Second Innings 54",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 55,
+        "title": "The Second Innings 55",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 56,
+        "title": "The Second Innings 56",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 57,
+        "title": "The Second Innings 57",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 58,
+        "title": "The Second Innings 58",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 59,
+        "title": "The Second Innings 59",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 60,
+        "title": "The Second Innings 60",
+        "purpose": "Advance away grounds through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 61,
+        "title": "The Third Innings 61",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 62,
+        "title": "The Third Innings 62",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 63,
+        "title": "The Third Innings 63",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 64,
+        "title": "The Third Innings 64",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 65,
+        "title": "The Third Innings 65",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 66,
+        "title": "The Third Innings 66",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 67,
+        "title": "The Third Innings 67",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 68,
+        "title": "The Third Innings 68",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 69,
+        "title": "The Third Innings 69",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 70,
+        "title": "The Third Innings 70",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 71,
+        "title": "The Third Innings 71",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 72,
+        "title": "The Third Innings 72",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 73,
+        "title": "The Third Innings 73",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 74,
+        "title": "The Third Innings 74",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 75,
+        "title": "The Third Innings 75",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 76,
+        "title": "The Third Innings 76",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 77,
+        "title": "The Third Innings 77",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 78,
+        "title": "The Third Innings 78",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 79,
+        "title": "The Third Innings 79",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 80,
+        "title": "The Third Innings 80",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 81,
+        "title": "The Third Innings 81",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 82,
+        "title": "The Third Innings 82",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 83,
+        "title": "The Third Innings 83",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 84,
+        "title": "The Third Innings 84",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 85,
+        "title": "The Third Innings 85",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 86,
+        "title": "The Third Innings 86",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 87,
+        "title": "The Third Innings 87",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 88,
+        "title": "The Third Innings 88",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 89,
+        "title": "The Third Innings 89",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 90,
+        "title": "The Third Innings 90",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 91,
+        "title": "The Third Innings 91",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 92,
+        "title": "The Third Innings 92",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 93,
+        "title": "The Third Innings 93",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 94,
+        "title": "The Third Innings 94",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 95,
+        "title": "The Third Innings 95",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 96,
+        "title": "The Third Innings 96",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 97,
+        "title": "The Third Innings 97",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 98,
+        "title": "The Third Innings 98",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 99,
+        "title": "The Third Innings 99",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 100,
+        "title": "The Third Innings 100",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 101,
+        "title": "The Third Innings 101",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 102,
+        "title": "The Third Innings 102",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 103,
+        "title": "The Third Innings 103",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 104,
+        "title": "The Third Innings 104",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 105,
+        "title": "The Third Innings 105",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 106,
+        "title": "The Third Innings 106",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 107,
+        "title": "The Third Innings 107",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 108,
+        "title": "The Third Innings 108",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 109,
+        "title": "The Third Innings 109",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 110,
+        "title": "The Third Innings 110",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 111,
+        "title": "The Third Innings 111",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 112,
+        "title": "The Third Innings 112",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 113,
+        "title": "The Third Innings 113",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 114,
+        "title": "The Third Innings 114",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 115,
+        "title": "The Third Innings 115",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 116,
+        "title": "The Third Innings 116",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 117,
+        "title": "The Third Innings 117",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 118,
+        "title": "The Third Innings 118",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 119,
+        "title": "The Third Innings 119",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 120,
+        "title": "The Third Innings 120",
+        "purpose": "Advance the long recovery through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 121,
+        "title": "The Fourth Innings 121",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 122,
+        "title": "The Fourth Innings 122",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 123,
+        "title": "The Fourth Innings 123",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 124,
+        "title": "The Fourth Innings 124",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 125,
+        "title": "The Fourth Innings 125",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 126,
+        "title": "The Fourth Innings 126",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 127,
+        "title": "The Fourth Innings 127",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 128,
+        "title": "The Fourth Innings 128",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 129,
+        "title": "The Fourth Innings 129",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 130,
+        "title": "The Fourth Innings 130",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 131,
+        "title": "The Fourth Innings 131",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 132,
+        "title": "The Fourth Innings 132",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 133,
+        "title": "The Fourth Innings 133",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 134,
+        "title": "The Fourth Innings 134",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 135,
+        "title": "The Fourth Innings 135",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 136,
+        "title": "The Fourth Innings 136",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 137,
+        "title": "The Fourth Innings 137",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 138,
+        "title": "The Fourth Innings 138",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 139,
+        "title": "The Fourth Innings 139",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 140,
+        "title": "The Fourth Innings 140",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 141,
+        "title": "The Fourth Innings 141",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 142,
+        "title": "The Fourth Innings 142",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 143,
+        "title": "The Fourth Innings 143",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 144,
+        "title": "The Fourth Innings 144",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 145,
+        "title": "The Fourth Innings 145",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 146,
+        "title": "The Fourth Innings 146",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 147,
+        "title": "The Fourth Innings 147",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 148,
+        "title": "The Fourth Innings 148",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 149,
+        "title": "The Fourth Innings 149",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 150,
+        "title": "The Fourth Innings 150",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 151,
+        "title": "The Fourth Innings 151",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 152,
+        "title": "The Fourth Innings 152",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 153,
+        "title": "The Fourth Innings 153",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 154,
+        "title": "The Fourth Innings 154",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 155,
+        "title": "The Fourth Innings 155",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 156,
+        "title": "The Fourth Innings 156",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 157,
+        "title": "The Fourth Innings 157",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 158,
+        "title": "The Fourth Innings 158",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 159,
+        "title": "The Fourth Innings 159",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 160,
+        "title": "The Fourth Innings 160",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 161,
+        "title": "The Fourth Innings 161",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 162,
+        "title": "The Fourth Innings 162",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 163,
+        "title": "The Fourth Innings 163",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 164,
+        "title": "The Fourth Innings 164",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 165,
+        "title": "The Fourth Innings 165",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 166,
+        "title": "The Fourth Innings 166",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 167,
+        "title": "The Fourth Innings 167",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 168,
+        "title": "The Fourth Innings 168",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 169,
+        "title": "The Fourth Innings 169",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 170,
+        "title": "The Fourth Innings 170",
+        "purpose": "Advance selection week through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 171,
+        "title": "The Final Innings 171",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 172,
+        "title": "The Final Innings 172",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 173,
+        "title": "The Final Innings 173",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 174,
+        "title": "The Final Innings 174",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 175,
+        "title": "The Final Innings 175",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 176,
+        "title": "The Final Innings 176",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 177,
+        "title": "The Final Innings 177",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 178,
+        "title": "The Final Innings 178",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 179,
+        "title": "The Final Innings 179",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 180,
+        "title": "The Final Innings 180",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 181,
+        "title": "The Final Innings 181",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 182,
+        "title": "The Final Innings 182",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 183,
+        "title": "The Final Innings 183",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 184,
+        "title": "The Final Innings 184",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 185,
+        "title": "The Final Innings 185",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 186,
+        "title": "The Final Innings 186",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 187,
+        "title": "The Final Innings 187",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 188,
+        "title": "The Final Innings 188",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 189,
+        "title": "The Final Innings 189",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 190,
+        "title": "The Final Innings 190",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 191,
+        "title": "The Final Innings 191",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 192,
+        "title": "The Final Innings 192",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 193,
+        "title": "The Final Innings 193",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 194,
+        "title": "The Final Innings 194",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 195,
+        "title": "The Final Innings 195",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 196,
+        "title": "The Final Innings 196",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 197,
+        "title": "The Final Innings 197",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 198,
+        "title": "The Final Innings 198",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 199,
+        "title": "The Final Innings 199",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      },
+      {
+        "number": 200,
+        "title": "The Final Innings 200",
+        "purpose": "Advance the deciding innings through a new test of Mira's cricket career.",
+        "hook": "The scorebook records a decision that could change the season.",
+        "characters": [
+          "Mira Sen",
+          "Kabir Rao"
+        ],
+        "threads_advanced": [
+          "Mira's technique",
+          "the selection race"
+        ]
+      }
+    ]
+  },
+  "canon": {
+    "facts": [
+      "Episode 1 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 2 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 3 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 4 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 5 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 6 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 7 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 8 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 9 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 10 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 11 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 12 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 13 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 14 completed: Advance the first net through a new test of Mira's cricket career.",
+      "Episode 15 completed: Advance the first net through a new test of Mira's cricket career."
+    ],
+    "character_states": {
+      "Mira Sen": "Present in episode 15",
+      "Kabir Rao": "Present in episode 15"
+    },
+    "timeline": [
+      "Episode 1: The First Innings 1",
+      "Episode 2: The First Innings 2",
+      "Episode 3: The First Innings 3",
+      "Episode 4: The First Innings 4",
+      "Episode 5: The First Innings 5",
+      "Episode 6: The First Innings 6",
+      "Episode 7: The First Innings 7",
+      "Episode 8: The First Innings 8",
+      "Episode 9: The First Innings 9",
+      "Episode 10: The First Innings 10",
+      "Episode 11: The First Innings 11",
+      "Episode 12: The First Innings 12",
+      "Episode 13: The First Innings 13",
+      "Episode 14: The First Innings 14",
+      "Episode 15: The First Innings 15"
+    ],
+    "open_threads": [
+      "Mira's technique",
+      "the selection race"
+    ]
+  },
+  "directives": [
+    "Let Mira and Kabir earn their partnership through cricket, not instant trust.",
+    "The recovery is too easy. Let Mira sit with the setback before the comeback."
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The First Innings 1",
+      "text": "The First Innings 1. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. At her first trial, the coach watched whether she could leave a tempting ball outside off stump. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThey trained on a ground where the outfield dipped near square leg and the practice nets had been repaired with mismatched rope. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir called out advice from the next net, but she learned to hear only what helped. A mistimed shot struck the mesh. She reset, breathed, and played the next ball late.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They chose the next session carefully, knowing every small habit would show under pressure.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 2 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 458,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.0,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 2,
+      "title": "The First Innings 2",
+      "text": "The First Innings 2. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. A wet morning made the ball skid, so Mira shortened her backlift and trusted her balance. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe morning pitch was damp enough to punish a loose drive, and Mira spent the first hour learning which balls would stop in the surface. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir stood at mid-off and called the length before the bowler released the ball, a habit that annoyed her until it saved a boundary. One edge died short of slip. Mira did not look at the coach; she marked the next ball and began again.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They chose the next session carefully, knowing every small habit would show under pressure.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 3 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 474,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.812,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 3,
+      "title": "The First Innings 3",
+      "text": "The First Innings 3. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. The academy's fastest bowler tested her ribs, and she answered by playing late instead of swinging harder. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nAt the indoor centre, the bowling machine offered no weather to blame and repeated the same difficult length until her feet became quiet. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir kept score from the side, circling every false shot and leaving the cleanest strokes unmarked. The machine clipped the top of off stump twice. On the third attempt she left it alone, which felt more like progress than a boundary.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They chose the next session carefully, knowing every small habit would show under pressure.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 4 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 469,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.658,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 4,
+      "title": "The First Innings 4",
+      "text": "The First Innings 4. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. A new opening partner left after two overs, forcing Mira to settle the innings with a nervous ninth-grader. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe academy shifted practice to the school ground, where a low boundary and a noisy football session made concentration part of the test. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir offered to face the difficult bowler first, then admitted he had been hoping she would say no. A misfield cost four runs. Mira chased the ball herself and returned before anyone could tell her it was not her fault.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They stayed together after practice to work on calling, because trust had to be built one run at a time.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 2 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 475,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.122,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 5,
+      "title": "The First Innings 5",
+      "text": "The First Innings 5. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. The video analyst showed her a habit she had never noticed: stepping across before the ball was released. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nOn the coastal ground, wind moved the ball late and turned every high catch into a conversation between the batter and the fielder. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir threw her a new ball without being asked and waited for her to decide whether it was worth replacing the old one. She dropped a high catch in the wind, then asked for another one instead of hiding at the edge of the drill.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They stayed together after practice to work on calling, because trust had to be built one run at a time.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 3 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 480,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.653,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 30,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 6,
+      "title": "The First Innings 6",
+      "text": "The First Innings 6. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. On a turning practice pitch, she stopped chasing boundaries and built her score in singles. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nA turning practice pitch exposed the difference between a confident stroke and one played simply because the scoreboard demanded it. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir challenged her to score ten runs without a boundary, which sounded insulting until the exercise improved her timing. A rash sweep brought a warning from the coach. Mira wrote the shot in her notebook, not as a failure but as a question.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They stayed together after practice to work on calling, because trust had to be built one run at a time.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 4 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 472,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.624,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 7,
+      "title": "The First Innings 7",
+      "text": "The First Innings 7. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. A dropped catch at midwicket followed her into the next session until Kabir made her field beside him. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe second-string squad shared one narrow net, so every player had to make the most of six balls before giving someone else a turn. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir arrived late from fielding practice and missed the explanation, leaving them to solve the drill by watching one another. The younger players watched her miss a routine stop. She showed them how to reset her feet, making the mistake useful before it hardened.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 2 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 478,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.47,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 8,
+      "title": "The First Innings 8",
+      "text": "The First Innings 8. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. The coach moved her down the order, where she had to contribute without the comfort of a new ball. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe coach arranged a fielding session before batting, reminding Mira that selection was decided in the moments when she was not holding a bat. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir disagreed with her field position, but he moved there anyway when the coach asked for one more over. When the coach changed the order, Mira accepted the new role without asking whether it was permanent.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 3 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 471,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.663,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 30,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 9,
+      "title": "The First Innings 9",
+      "text": "The First Innings 9. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. A long bus ride to an away ground left the squad tired before the warm-up even began. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe team reached an away ground after a long bus ride and found the changing room smaller than the kit bags they had carried into it. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir found two seats at the back of the bus and used the window reflection to study her grip without making a lesson of it. The trip had made everyone quiet. Mira broke the silence by calling for a second run that was not there, then owned the error.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 4 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 484,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.653,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 10,
+      "title": "The First Innings 10",
+      "text": "The First Innings 10. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. When her wrist started aching, Mira learned that asking for a break could be part of preparation. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nA light drizzle delayed the start, leaving Mira to rehearse her trigger movement beside the covers while the groundskeeper watched the clouds. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir was the first to notice that she had stopped rotating her shoulder and passed her the physio's contact instead of offering advice. She could not find her rhythm before the rain returned, but she found a way to finish the session without pretending otherwise.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 2 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 476,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.787,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 30,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 11,
+      "title": "The First Innings 11",
+      "text": "The First Innings 11. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. Rehabilitation began with simple throws against a wall and no scoreboard to make the work feel important. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nDuring rehabilitation, the net was replaced by a wall, a resistance band, and a patient physiotherapist who counted every controlled movement. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir visited the rehabilitation room with a bag of old match programmes and stayed until Mira laughed at one of her junior scores. The first controlled throw travelled only a few metres. Mira celebrated privately, then did the same movement again.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 3 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 471,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.741,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 12,
+      "title": "The First Innings 12",
+      "text": "The First Innings 12. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. Her first match back ended with a soft dismissal, but she stayed to watch the younger players finish. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nHer first match back offered only twelve overs, but the short game made every decision feel louder than it would have in a full innings. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir sent a message after the dismissal, not to explain the mistake but to tell her the team had still needed her at the boundary. Her soft dismissal hurt more because it was ordinary. She stayed to watch the younger players finish their innings.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 4 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 479,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.654,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 13,
+      "title": "The First Innings 13",
+      "text": "The First Innings 13. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. The provisional selection list omitted her name, leaving one final trial to say something the numbers had not. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe selection trial drew parents, scouts, and former players to the boundary, turning an ordinary practice into a public examination. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir was also missing from the first list, and their shared disappointment made the next net feel less like a private failure. The first trial ball beat her completely. She asked the bowler for another rather than waiting for the next spell.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 2 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 472,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.649,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 14,
+      "title": "The First Innings 14",
+      "text": "The First Innings 14. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. With scouts along the boundary, Mira had to choose between a personal milestone and the team's target. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nThe scoreboard operator kept losing track of the target, so Mira learned to calculate the chase herself between deliveries. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir wanted the aggressive option; Mira wanted the safe one, and their argument forced both of them to explain what the target required. A boundary would have made the decision easy. Mira chose the single, and the choice told the captain more than the score did.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 3 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 474,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.653,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 31,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    },
+    {
+      "number": 15,
+      "title": "The First Innings 15",
+      "text": "The First Innings 15. Mira Sen had learned that a good innings was built from small choices: leave the ball, trust the footwork, and keep watching the field. The session demanded more than a clean stroke. Before the decisive innings, she packed the same worn gloves and promised herself only the next ball. On the last ball of the net, she held her shape and sent a clean drive through the covers. Kabir Rao, waiting to bat, nodded once. The premise sounded simple: A talented young batter from a neighborhood club earns a place at a state cricket academy and must rebuild her game after a serious injury. Mira knew the difficult part was staying ready when nobody was watching.\n\nBefore the final trial, the ground was nearly empty and the floodlights made the worn centre strip look more important than it was. Mira marked her guard, checked the wind, and faced a faster bowler than the one listed on the schedule. Kabir handed her the worn gloves before the toss and said nothing about the result they were both trying not to imagine. She packed the same worn gloves and promised herself only the next ball, because the whole season was too large to carry at once.\n\nThe afternoon session became a test of patience. Mira wanted to prove she belonged in the academy squad. Kabir wanted to know whether she could score without taking risks that left the lower order exposed. They argued beside the kit bags while rain gathered over the far boundary. Their coach reminded them that a team could not build a season around one player's highlights. They left the comeback for another day and let Mira face the disappointment before choosing her next step.\n\nBy evening, the trial match had tightened into a contest of singles. Mira stopped chasing the spectacular shot and began placing the ball into spaces the fielders had forgotten. Kabir settled at the other end, turning quick ones into twos and calling early enough to keep them safe. Their partnership was not pretty, but it changed the total and made the opposition captain move 4 fielders.\n\nThe innings changed the question. Mira was no longer asking whether she had enough talent to be selected. She was asking what the team would need from her when the pitch was slow, the score was behind, and her timing disappeared. She kept the worn ball from the final over in her kit bag. Kabir did not celebrate. He simply asked whether she would be at training tomorrow, and she gave him an answer that depended on the next morning's work.\n\nAt the end of the day, Mira closed the book, tightened the tape around her wrist, and walked back toward the nets before the lights went out. The final entry read: the scorebook records a decision that could change the season.",
+      "status": "approved",
+      "feedback": [],
+      "revision": 1,
+      "quality": {
+        "word_count": 478,
+        "within_target": true,
+        "has_hook": true,
+        "repetition_score": 0.655,
+        "repeated_episode": false,
+        "missing_characters": [],
+        "consistency_pass": true,
+        "sentence_count": 30,
+        "repeated_plan_terms": 0,
+        "approved_by_critic": true
+      }
+    }
+  ],
+  "next_episode": 16,
+  "status": "writing"
+}
